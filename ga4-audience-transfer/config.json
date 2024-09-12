@@ -1,0 +1,7 @@
+{
+  "client_secrets_file": "credentials.json",
+  "token_file": "token.json",
+  "scopes": ["https://www.googleapis.com/auth/analytics.edit"],
+  "source_property_id": "123456789",
+  "target_property_id": "987654321"
+}

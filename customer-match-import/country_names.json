@@ -1,0 +1,775 @@
+{
+  "AF": {
+    "names": ["afghanistan", "افغانستان", "afganistan"],
+    "codes": ["AF", "AFG", "004"]
+  },
+  "AL": {
+    "names": ["albania", "shqipëria", "shqipëri"],
+    "codes": ["AL", "ALB", "008"]
+  },
+  "DZ": {
+    "names": ["algeria", "الجزائر", "al-jazā'ir", "algérie"],
+    "codes": ["DZ", "DZA", "012"]
+  },
+  "AD": {
+    "names": ["andorra"],
+    "codes": ["AD", "AND", "020"]
+  },
+  "AO": {
+    "names": ["angola"],
+    "codes": ["AO", "AGO", "024"]
+  },
+  "AG": {
+    "names": ["antigua and barbuda"],
+    "codes": ["AG", "ATG", "028"]
+  },
+  "AR": {
+    "names": ["argentina"],
+    "codes": ["AR", "ARG", "032"]
+  },
+  "AM": {
+    "names": ["armenia", "հայաստան", "hayastan"],
+    "codes": ["AM", "ARM", "051"]
+  },
+  "AU": {
+    "names": ["australia"],
+    "codes": ["AU", "AUS", "036"]
+  },
+  "AT": {
+    "names": ["austria", "österreich"],
+    "codes": ["AT", "AUT", "040"]
+  },
+  "AZ": {
+    "names": ["azerbaijan", "azərbaycan"],
+    "codes": ["AZ", "AZE", "031"]
+  },
+  "BS": {
+    "names": ["bahamas"],
+    "codes": ["BS", "BHS", "044"]
+  },
+  "BH": {
+    "names": ["bahrain", "البحرين", "al-baḥrayn"],
+    "codes": ["BH", "BHR", "048"]
+  },
+  "BD": {
+    "names": ["bangladesh", "বাংলাদেশ"],
+    "codes": ["BD", "BGD", "050"]
+  },
+  "BB": {
+    "names": ["barbados"],
+    "codes": ["BB", "BRB", "052"]
+  },
+  "BY": {
+    "names": ["belarus", "беларусь"],
+    "codes": ["BY", "BLR", "112"]
+  },
+  "BE": {
+    "names": ["belgium", "belgië", "belgique", "belgien"],
+    "codes": ["BE", "BEL", "056"]
+  },
+  "BZ": {
+    "names": ["belize"],
+    "codes": ["BZ", "BLZ", "084"]
+  },
+  "BJ": {
+    "names": ["benin", "bénin"],
+    "codes": ["BJ", "BEN", "204"]
+  },
+  "BT": {
+    "names": ["bhutan", "འབྲུག་ཡུལ", "druk yul"],
+    "codes": ["BT", "BTN", "064"]
+  },
+  "BO": {
+    "names": ["bolivia", "bolivia, plurinational state of"],
+    "codes": ["BO", "BOL", "068"]
+  },
+  "BA": {
+    "names": ["bosnia and herzegovina", "bosna i hercegovina"],
+    "codes": ["BA", "BIH", "070"]
+  },
+  "BW": {
+    "names": ["botswana"],
+    "codes": ["BW", "BWA", "072"]
+  },
+  "BR": {
+    "names": ["brazil", "brasil"],
+    "codes": ["BR", "BRA", "076"]
+  },
+  "BN": {
+    "names": ["brunei", "brunei darussalam"],
+    "codes": ["BN", "BRN", "096"]
+  },
+  "BG": {
+    "names": ["bulgaria", "българия"],
+    "codes": ["BG", "BGR", "100"]
+  },
+  "BF": {
+    "names": ["burkina faso"],
+    "codes": ["BF", "BFA", "854"]
+  },
+  "BI": {
+    "names": ["burundi"],
+    "codes": ["BI", "BDI", "108"]
+  },
+  "KH": {
+    "names": ["cambodia", "កម្ពុជា", "kampuchea"],
+    "codes": ["KH", "KHM", "116"]
+  },
+  "CM": {
+    "names": ["cameroon", "cameroun"],
+    "codes": ["CM", "CMR", "120"]
+  },
+  "CA": {
+    "names": ["canada"],
+    "codes": ["CA", "CAN", "124"]
+  },
+  "CV": {
+    "names": ["cape verde", "cabo verde"],
+    "codes": ["CV", "CPV", "132"]
+  },
+  "CF": {
+    "names": ["central african republic", "république centrafricaine"],
+    "codes": ["CF", "CAF", "140"]
+  },
+  "TD": {
+    "names": ["chad", "tchad", "تشاد"],
+    "codes": ["TD", "TCD", "148"]
+  },
+  "CL": {
+    "names": ["chile"],
+    "codes": ["CL", "CHL", "152"]
+  },
+  "CN": {
+    "names": ["china", "中国", "zhongguo"],
+    "codes": ["CN", "CHN", "156"]
+  },
+  "CO": {
+    "names": ["colombia"],
+    "codes": ["CO", "COL", "170"]
+  },
+  "KM": {
+    "names": ["comoros", "جزر القمر", "juzur al-qumur"],
+    "codes": ["KM", "COM", "174"]
+  },
+  "CG": {
+    "names": ["congo", "république du congo"],
+    "codes": ["CG", "COG", "178"]
+  },
+  "CD": {
+    "names": ["democratic republic of the congo", "congo, the democratic republic of the", "république démocratique du congo"],
+    "codes": ["CD", "COD", "180"]
+  },
+  "CR": {
+    "names": ["costa rica"],
+    "codes": ["CR", "CRI", "188"]
+  },
+  "CI": {
+    "names": ["côte d'ivoire", "ivory coast"],
+    "codes": ["CI", "CIV", "384"]
+  },
+  "HR": {
+    "names": ["croatia", "hrvatska"],
+    "codes": ["HR", "HRV", "191"]
+  },
+  "CU": {
+    "names": ["cuba"],
+    "codes": ["CU", "CUB", "192"]
+  },
+  "CY": {
+    "names": ["cyprus", "κύπρος", "kıbrıs"],
+    "codes": ["CY", "CYP", "196"]
+  },
+  "CZ": {
+    "names": ["czech republic", "česká republika", "česko"],
+    "codes": ["CZ", "CZE", "203"]
+  },
+  "DK": {
+    "names": ["denmark", "danmark"],
+    "codes": ["DK", "DNK", "208"]
+  },
+  "DJ": {
+    "names": ["djibouti", "جيبوتي"],
+    "codes": ["DJ", "DJI", "262"]
+  },
+  "DM": {
+    "names": ["dominica"],
+    "codes": ["DM", "DMA", "212"]
+  },
+  "DO": {
+    "names": ["dominican republic", "república dominicana"],
+    "codes": ["DO", "DOM", "214"]
+  },
+  "EC": {
+    "names": ["ecuador"],
+    "codes": ["EC", "ECU", "218"]
+  },
+  "EG": {
+    "names": ["egypt", "مصر", "miṣr"],
+    "codes": ["EG", "EGY", "818"]
+  },
+  "SV": {
+    "names": ["el salvador"],
+    "codes": ["SV", "SLV", "222"]
+  },
+  "GQ": {
+    "names": ["equatorial guinea", "guinea ecuatorial"],
+    "codes": ["GQ", "GNQ", "226"]
+  },
+  "ER": {
+    "names": ["eritrea", "ኤርትራ"],
+    "codes": ["ER", "ERI", "232"]
+  },
+  "EE": {
+    "names": ["estonia", "eesti"],
+    "codes": ["EE", "EST", "233"]
+  },
+  "ET": {
+    "names": ["ethiopia", "ኢትዮጵያ"],
+    "codes": ["ET", "ETH", "231"]
+  },
+  "FJ": {
+    "names": ["fiji"],
+    "codes": ["FJ", "FJI", "242"]
+  },
+  "FI": {
+    "names": ["finland", "suomi"],
+    "codes": ["FI", "FIN", "246"]
+  },
+  "FR": {
+    "names": ["france"],
+    "codes": ["FR", "FRA", "250"]
+  },
+  "GA": {
+    "names": ["gabon"],
+    "codes": ["GA", "GAB", "266"]
+  },
+  "GM": {
+    "names": ["gambia"],
+    "codes": ["GM", "GMB", "270"]
+  },
+  "GE": {
+    "names": ["georgia", "საქართველო", "sakartvelo"],
+    "codes": ["GE", "GEO", "268"]
+  },
+  "DE": {
+    "names": ["germany", "deutschland"],
+    "codes": ["DE", "DEU", "276"]
+  },
+  "GH": {
+    "names": ["ghana"],
+    "codes": ["GH", "GHA", "288"]
+  },
+  "GR": {
+    "names": ["greece", "ελλάδα", "elláda"],
+    "codes": ["GR", "GRC", "300"]
+  },
+  "GD": {
+    "names": ["grenada"],
+    "codes": ["GD", "GRD", "308"]
+  },
+  "GT": {
+    "names": ["guatemala"],
+    "codes": ["GT", "GTM", "320"]
+  },
+  "GN": {
+    "names": ["guinea", "guinée"],
+    "codes": ["GN", "GIN", "324"]
+  },
+  "GW": {
+    "names": ["guinea-bissau", "guiné-bissau"],
+    "codes": ["GW", "GNB", "624"]
+  },
+  "GY": {
+    "names": ["guyana"],
+    "codes": ["GY", "GUY", "328"]
+  },
+  "HT": {
+    "names": ["haiti", "haïti"],
+    "codes": ["HT", "HTI", "332"]
+  },
+  "HN": {
+    "names": ["honduras"],
+    "codes": ["HN", "HND", "340"]
+  },
+  "HU": {
+    "names": ["hungary", "magyarország"],
+    "codes": ["HU", "HUN", "348"]
+  },
+  "IS": {
+    "names": ["iceland", "ísland"],
+    "codes": ["IS", "ISL", "352"]
+  },
+  "IN": {
+    "names": ["india", "भारत", "bhārat"],
+    "codes": ["IN", "IND", "356"]
+  },
+  "ID": {
+    "names": ["indonesia"],
+    "codes": ["ID", "IDN", "360"]
+  },
+  "IR": {
+    "names": ["iran", "ایران", "īrān"],
+    "codes": ["IR", "IRN", "364"]
+  },
+  "IQ": {
+    "names": ["iraq", "العراق", "al-'irāq"],
+    "codes": ["IQ", "IRQ", "368"]
+  },
+  "IE": {
+    "names": ["ireland", "éire"],
+    "codes": ["IE", "IRL", "372"]
+  },
+  "IL": {
+    "names": ["israel", "ישראל", "yisra'el"],
+    "codes": ["IL", "ISR", "376"]
+  },
+  "IT": {
+    "names": ["italy", "italia"],
+    "codes": ["IT", "ITA", "380"]
+  },
+  "JM": {
+    "names": ["jamaica"],
+    "codes": ["JM", "JAM", "388"]
+  },
+  "JP": {
+    "names": ["japan", "日本", "nippon", "nihon"],
+    "codes": ["JP", "JPN", "392"]
+  },
+  "JO": {
+    "names": ["jordan", "الأردن", "al-'urdunn"],
+    "codes": ["JO", "JOR", "400"]
+  },
+  "KZ": {
+    "names": ["kazakhstan", "қазақстан", "qazaqstan"],
+    "codes": ["KZ", "KAZ", "398"]
+  },
+  "KE": {
+    "names": ["kenya"],
+    "codes": ["KE", "KEN", "404"]
+  },
+  "KI": {
+    "names": ["kiribati"],
+    "codes": ["KI", "KIR", "296"]
+  },
+  "KP": {
+    "names": ["north korea", "조선민주주의인민공화국", "chosŏn minjujuŭi inmin konghwaguk"],
+    "codes": ["KP", "PRK", "408"]
+  },
+  "KR": {
+    "names": ["south korea", "대한민국", "daehan minguk"],
+    "codes": ["KR", "KOR", "410"]
+  },
+  "KW": {
+    "names": ["kuwait", "الكويت", "al-kuwayt"],
+    "codes": ["KW", "KWT", "414"]
+  },
+  "KG": {
+    "names": ["kyrgyzstan", "кыргызстан", "kyrgyz respublikasy"],
+    "codes": ["KG", "KGZ", "417"]
+  },
+  "LA": {
+    "names": ["laos", "ລາວ", "lao"],
+    "codes": ["LA", "LAO", "418"]
+  },
+  "LV": {
+    "names": ["latvia", "latvija"],
+    "codes": ["LV", "LVA", "428"]
+  },
+  "LB": {
+    "names": ["lebanon", "لبنان", "lubnān"],
+    "codes": ["LB", "LBN", "422"]
+  },
+  "LS": {
+    "names": ["lesotho"],
+    "codes": ["LS", "LSO", "426"]
+  },
+  "LR": {
+    "names": ["liberia"],
+    "codes": ["LR", "LBR", "430"]
+  },
+  "LY": {
+    "names": ["libya", "ليبيا", "lībiyā"],
+    "codes": ["LY", "LBY", "434"]
+  },
+  "LI": {
+    "names": ["liechtenstein"],
+    "codes": ["LI", "LIE", "438"]
+  },
+  "LT": {
+    "names": ["lithuania", "lietuva"],
+    "codes": ["LT", "LTU", "440"]
+  },
+  "LU": {
+    "names": ["luxembourg", "lëtzebuerg"],
+    "codes": ["LU", "LUX", "442"]
+  },
+  "MG": {
+    "names": ["madagascar", "madagasikara"],
+    "codes": ["MG", "MDG", "450"]
+  },
+  "MW": {
+    "names": ["malawi"],
+    "codes": ["MW", "MWI", "454"]
+  },
+  "MY": {
+    "names": ["malaysia"],
+    "codes": ["MY", "MYS", "458"]
+  },
+  "MV": {
+    "names": ["maldives", "ދިވެހިރާއްޖެ", "dhivehi raajje"],
+    "codes": ["MV", "MDV", "462"]
+  },
+  "ML": {
+    "names": ["mali"],
+    "codes": ["ML", "MLI", "466"]
+  },
+  "MT": {
+    "names": ["malta"],
+    "codes": ["MT", "MLT", "470"]
+  },
+  "MH": {
+    "names": ["marshall islands"],
+    "codes": ["MH", "MHL", "584"]
+  },
+  "MR": {
+    "names": ["mauritania", "موريتانيا", "mūrītānyā"],
+    "codes": ["MR", "MRT", "478"]
+  },
+  "MU": {
+    "names": ["mauritius"],
+    "codes": ["MU", "MUS", "480"]
+  },
+  "MX": {
+    "names": ["mexico", "méxico"],
+    "codes": ["MX", "MEX", "484"]
+  },
+  "FM": {
+    "names": ["micronesia", "federated states of micronesia"],
+    "codes": ["FM", "FSM", "583"]
+  },
+  "MD": {
+    "names": ["moldova"],
+    "codes": ["MD", "MDA", "498"]
+  },
+  "MC": {
+    "names": ["monaco"],
+    "codes": ["MC", "MCO", "492"]
+  },
+  "MN": {
+    "names": ["mongolia", "монгол улс", "mongol uls"],
+    "codes": ["MN", "MNG", "496"]
+  },
+  "ME": {
+    "names": ["montenegro", "crna gora"],
+    "codes": ["ME", "MNE", "499"]
+  },
+  "MA": {
+    "names": ["morocco", "المغرب", "al-maghrib"],
+    "codes": ["MA", "MAR", "504"]
+  },
+  "MZ": {
+    "names": ["mozambique", "moçambique"],
+    "codes": ["MZ", "MOZ", "508"]
+  },
+  "MM": {
+    "names": ["myanmar", "မြန်မာ"],
+    "codes": ["MM", "MMR", "104"]
+  },
+  "NA": {
+    "names": ["namibia"],
+    "codes": ["NA", "NAM", "516"]
+  },
+  "NR": {
+    "names": ["nauru"],
+    "codes": ["NR", "NRU", "520"]
+  },
+  "NP": {
+    "names": ["nepal", "नेपाल"],
+    "codes": ["NP", "NPL", "524"]
+  },
+  "NL": {
+    "names": ["netherlands", "nederland"],
+    "codes": ["NL", "NLD", "528"]
+  },
+  "NZ": {
+    "names": ["new zealand", "aotearoa"],
+    "codes": ["NZ", "NZL", "554"]
+  },
+  "NI": {
+    "names": ["nicaragua"],
+    "codes": ["NI", "NIC", "558"]
+  },
+  "NE": {
+    "names": ["niger"],
+    "codes": ["NE", "NER", "562"]
+  },
+  "NG": {
+    "names": ["nigeria"],
+    "codes": ["NG", "NGA", "566"]
+  },
+  "MK": {
+    "names": ["north macedonia", "република северна македонија", "republika severna makedonija"],
+    "codes": ["MK", "MKD", "807"]
+  },
+  "NO": {
+    "names": ["norway", "norge", "noreg"],
+    "codes": ["NO", "NOR", "578"]
+  },
+  "OM": {
+    "names": ["oman", "عمان", "'umān"],
+    "codes": ["OM", "OMN", "512"]
+  },
+  "PK": {
+    "names": ["pakistan", "پاکستان"],
+    "codes": ["PK", "PAK", "586"]
+  },
+  "PW": {
+    "names": ["palau", "belau"],
+    "codes": ["PW", "PLW", "585"]
+  },
+  "PA": {
+    "names": ["panama", "panamá"],
+    "codes": ["PA", "PAN", "591"]
+  },
+  "PG": {
+    "names": ["papua new guinea"],
+    "codes": ["PG", "PNG", "598"]
+  },
+  "PY": {
+    "names": ["paraguay"],
+    "codes": ["PY", "PRY", "600"]
+  },
+  "PE": {
+    "names": ["peru", "perú"],
+    "codes": ["PE", "PER", "604"]
+  },
+  "PH": {
+    "names": ["philippines", "pilipinas"],
+    "codes": ["PH", "PHL", "608"]
+  },
+  "PL": {
+    "names": ["poland", "polska"],
+    "codes": ["PL", "POL", "616"]
+  },
+  "PT": {
+    "names": ["portugal"],
+    "codes": ["PT", "PRT", "620"]
+  },
+  "QA": {
+    "names": ["qatar", "قطر"],
+    "codes": ["QA", "QAT", "634"]
+  },
+  "RO": {
+    "names": ["romania", "românia"],
+    "codes": ["RO", "ROU", "642"]
+  },
+  "RU": {
+    "names": ["russia", "российская федерация", "rossiyskaya federatsiya"],
+    "codes": ["RU", "RUS", "643"]
+  },
+  "RW": {
+    "names": ["rwanda"],
+    "codes": ["RW", "RWA", "646"]
+  },
+  "KN": {
+    "names": ["saint kitts and nevis"],
+    "codes": ["KN", "KNA", "659"]
+  },
+  "LC": {
+    "names": ["saint lucia"],
+    "codes": ["LC", "LCA", "662"]
+  },
+  "VC": {
+    "names": ["saint vincent and the grenadines"],
+    "codes": ["VC", "VCT", "670"]
+  },
+  "WS": {
+    "names": ["samoa"],
+    "codes": ["WS", "WSM", "882"]
+  },
+  "SM": {
+    "names": ["san marino"],
+    "codes": ["SM", "SMR", "674"]
+  },
+  "ST": {
+    "names": ["sao tome and principe", "são tomé and príncipe"],
+    "codes": ["ST", "STP", "678"]
+  },
+  "SA": {
+    "names": ["saudi arabia", "المملكة العربية السعودية", "al-mamlakah al-'arabiyyah as-su'ūdiyyah"],
+    "codes": ["SA", "SAU", "682"]
+  },
+  "SN": {
+    "names": ["senegal", "sénégal"],
+    "codes": ["SN", "SEN", "686"]
+  },
+  "RS": {
+    "names": ["serbia", "србија", "srbija"],
+    "codes": ["RS", "SRB", "688"]
+  },
+  "SC": {
+    "names": ["seychelles"],
+    "codes": ["SC", "SYC", "690"]
+  },
+  "SL": {
+    "names": ["sierra leone"],
+    "codes": ["SL", "SLE", "694"]
+  },
+  "SG": {
+    "names": ["singapore", "新加坡", "xīnjiāpō", "சிங்கப்பூர்", "ciṅkappūr"],
+    "codes": ["SG", "SGP", "702"]
+  },
+  "SK": {
+    "names": ["slovakia", "slovensko"],
+    "codes": ["SK", "SVK", "703"]
+  },
+  "SI": {
+    "names": ["slovenia", "slovenija"],
+    "codes": ["SI", "SVN", "705"]
+  },
+  "SB": {
+    "names": ["solomon islands"],
+    "codes": ["SB", "SLB", "090"]
+  },
+  "SO": {
+    "names": ["somalia", "الصومال", "aṣ-ṣūmāl"],
+    "codes": ["SO", "SOM", "706"]
+  },
+  "ZA": {
+    "names": ["south africa", "suid-afrika"],
+    "codes": ["ZA", "ZAF", "710"]
+  },
+  "SS": {
+    "names": ["south sudan"],
+    "codes": ["SS", "SSD", "728"]
+  },
+  "ES": {
+    "names": ["spain", "españa"],
+    "codes": ["ES", "ESP", "724"]
+  },
+  "LK": {
+    "names": ["sri lanka", "ශ්‍රී ලංකා", "ilaṅkai"],
+    "codes": ["LK", "LKA", "144"]
+  },
+  "SD": {
+    "names": ["sudan", "السودان", "as-sūdān"],
+    "codes": ["SD", "SDN", "729"]
+  },
+  "SR": {
+    "names": ["suriname"],
+    "codes": ["SR", "SUR", "740"]
+  },
+  "SE": {
+    "names": ["sweden", "sverige"],
+    "codes": ["SE", "SWE", "752"]
+  },
+  "CH": {
+    "names": ["switzerland", "schweiz", "suisse", "svizzera", "svizra"],
+    "codes": ["CH", "CHE", "756"]
+  },
+  "SY": {
+    "names": ["syria", "سوريا", "sūriyā"],
+    "codes": ["SY", "SYR", "760"]
+  },
+  "TJ": {
+    "names": ["tajikistan", "тоҷикистон", "tojikiston"],
+    "codes": ["TJ", "TJK", "762"]
+  },
+  "TZ": {
+    "names": ["tanzania"],
+    "codes": ["TZ", "TZA", "834"]
+  },
+  "TH": {
+    "names": ["thailand", "ประเทศไทย", "prathet thai"],
+    "codes": ["TH", "THA", "764"]
+  },
+  "TL": {
+    "names": ["timor-leste", "east timor"],
+    "codes": ["TL", "TLS", "626"]
+  },
+  "TG": {
+    "names": ["togo"],
+    "codes": ["TG", "TGO", "768"]
+  },
+  "TO": {
+    "names": ["tonga"],
+    "codes": ["TO", "TON", "776"]
+  },
+  "TT": {
+    "names": ["trinidad and tobago"],
+    "codes": ["TT", "TTO", "780"]
+  },
+  "TN": {
+    "names": ["tunisia", "تونس", "tūnis"],
+    "codes": ["TN", "TUN", "788"]
+  },
+  "TR": {
+    "names": ["turkey", "türkiye"],
+    "codes": ["TR", "TUR", "792"]
+  },
+  "TM": {
+    "names": ["turkmenistan", "türkmenistan"],
+    "codes": ["TM", "TKM", "795"]
+  },
+  "TV": {
+    "names": ["tuvalu"],
+    "codes": ["TV", "TUV", "798"]
+  },
+  "UG": {
+    "names": ["uganda"],
+    "codes": ["UG", "UGA", "800"]
+  },
+  "UA": {
+    "names": ["ukraine", "україна", "ukrayina"],
+    "codes": ["UA", "UKR", "804"]
+  },
+  "AE": {
+    "names": ["united arab emirates", "الإمارات العربية المتحدة", "al-imārāt al-'arabīyah al-muttaḥidah"],
+    "codes": ["AE", "ARE", "784"]
+  },
+  "GB": {
+    "names": ["united kingdom", "uk", "great britain"],
+    "codes": ["GB", "GBR", "826"]
+  },
+  "US": {
+    "names": ["united states", "united states of america", "usa", "américa", "états-unis", "vereinigte staaten", "stati uniti", "アメリカ合衆国"],
+    "codes": ["US", "USA", "840"]
+  },
+  "UY": {
+    "names": ["uruguay"],
+    "codes": ["UY", "URY", "858"]
+  },
+  "UZ": {
+    "names": ["uzbekistan", "oʻzbekiston"],
+    "codes": ["UZ", "UZB", "860"]
+  },
+  "VU": {
+    "names": ["vanuatu"],
+    "codes": ["VU", "VUT", "548"]
+  },
+  "VA": {
+    "names": ["vatican city", "holy see"],
+    "codes": ["VA", "VAT", "336"]
+  },
+  "VE": {
+    "names": ["venezuela"],
+    "codes": ["VE", "VEN", "862"]
+  },
+  "VN": {
+    "names": ["vietnam", "việt nam"],
+    "codes": ["VN", "VNM", "704"]
+  },
+  "YE": {
+    "names": ["yemen", "اليَمَن", "al-yaman"],
+    "codes": ["YE", "YEM", "887"]
+  },
+  "ZM": {
+    "names": ["zambia"],
+    "codes": ["ZM", "ZMB", "894"]
+  },
+  "ZW": {
+    "names": ["zimbabwe"],
+    "codes": ["ZW", "ZWE", "716"]
+  }
+}
+

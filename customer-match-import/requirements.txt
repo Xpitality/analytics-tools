@@ -1,0 +1,5 @@
+pandas
+phonenumbers
+openpyxl
+email_validator
+
